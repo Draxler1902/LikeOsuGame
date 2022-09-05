@@ -86,6 +86,8 @@ namespace GameLikeOsa
             g.DrawImage(HandlerTexture, TargetRetangle);
         }
 
+     
+
         private void AddScore()
         {
             _score ++;

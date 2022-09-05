@@ -49,7 +49,9 @@
             // 
             // scoreNum
             // 
+            this.scoreNum.Enabled = false;
             this.scoreNum.Font = new System.Drawing.Font("Microsoft Sans Serif", 28.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.scoreNum.InterceptArrowKeys = false;
             this.scoreNum.Location = new System.Drawing.Point(883, 12);
             this.scoreNum.Maximum = new decimal(new int[] {
             1000000000,
