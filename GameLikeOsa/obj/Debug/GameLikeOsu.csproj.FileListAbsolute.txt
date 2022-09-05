@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\GameLikeOsa\GameLikeOsa\obj\Debug\GameLikeOsu.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\GameLikeOsa\GameLikeOsa\obj\Debug\GameLikeOsu.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\GameLikeOsa\GameLikeOsa\obj\Debug\GameLikeOsa.Properties.Resources.resources
+C:\Users\User\source\repos\GameLikeOsa\GameLikeOsa\obj\Debug\GameLikeOsa.Resource1.resources
+C:\Users\User\source\repos\GameLikeOsa\GameLikeOsa\obj\Debug\GameLikeOsu.csproj.GenerateResource.cache
+C:\Users\User\source\repos\GameLikeOsa\GameLikeOsa\obj\Debug\GameLikeOsu.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GameLikeOsa\GameLikeOsa\obj\Debug\GameLikeOsa.exe
+C:\Users\User\source\repos\GameLikeOsa\GameLikeOsa\obj\Debug\GameLikeOsa.pdb
+C:\Users\User\source\repos\GameLikeOsa\GameLikeOsa\bin\Debug\GameLikeOsa.exe.config
+C:\Users\User\source\repos\GameLikeOsa\GameLikeOsa\bin\Debug\GameLikeOsa.exe
+C:\Users\User\source\repos\GameLikeOsa\GameLikeOsa\bin\Debug\GameLikeOsa.pdb
+C:\Users\User\source\repos\GameLikeOsa\GameLikeOsa\obj\Debug\GameLikeOsa.Form1.resources
